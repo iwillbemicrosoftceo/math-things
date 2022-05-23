@@ -1,0 +1,22 @@
+{
+  "name": "math-things",
+  "version": "1.0.0",
+  "description": "You don't have to do the math, we will.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwillbemicrosoftceo/math-things.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Krishna Murthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwillbemicrosoftceo/math-things/issues"
+  },
+  "homepage": "https://github.com/iwillbemicrosoftceo/math-things#readme"
+}
